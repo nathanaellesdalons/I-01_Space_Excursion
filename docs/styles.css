@@ -14,5 +14,10 @@ kbd{
     padding: 0.1em 0.3em;
     font-family: inherit;
     font-size: 0.85em;
+    line-height: 2;
 }
+
+/*.div-perso {
+    margin: 25%;
+}*/
 
