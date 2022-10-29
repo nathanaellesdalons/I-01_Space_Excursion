@@ -1,7 +1,10 @@
-kbd{
-    font-family:monospace, monospace
+h1 {
+    text-align: center;
 }
-.mw-parser-output .keyboard-key {
+kbd{
+    font-family:monospace, monospace;
+}
+.keyboard-key {
     border: 1px solid #aaa;
     border-radius: 0.2em;
     box-shadow: 0.1em 0.1em 0.2em rgba(0,0,0,0.1);
